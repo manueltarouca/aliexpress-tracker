@@ -1,0 +1,1 @@
+export const PRODUCT_URL = 'https://pt.aliexpress.com/item/1005003611677275.html';
